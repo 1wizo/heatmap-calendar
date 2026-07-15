@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Heatmap Calendar
+Comment=GitHub-style heatmap calendar widget
+Exec=python3 %h/.local/share/heatmap-calendar/calendar_widget.py
+Icon=view-calendar
+Terminal=false
+X-KDE-autostart-phase=2
+X-GNOME-Autostart-enabled=true
+Categories=Utility;
