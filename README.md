@@ -2,8 +2,6 @@
 
 A desktop calendar widget that looks like the GitHub contribution heatmap, repurposed as a **daily habits tracker**. Click today's cell to log a habit. Each click makes it greener. Yesterday locks in. After a week you see exactly which days you followed through.
 
-![demo](screenshot.png)
-
 ## Which version do I download?
 
 | Your setup | Download | How to install |
@@ -12,6 +10,8 @@ A desktop calendar widget that looks like the GitHub contribution heatmap, repur
 | **Linux KDE Plasma** (X11 or XWayland) | `RainmeterCalendarPlasma.tar.gz` | Extract → `bash install.sh` |
 | **Linux Wayland** (Sway / Hyprland / Wayfire / labwc / River / KDE Plasma 6 native) | `RainmeterCalendarWayland.tar.gz` | Extract → `bash install.sh` |
 | **GNOME (Mutter)** | — | Not supported (GNOME doesn't allow desktop widgets without extensions) |
+
+//**btw the wayland version is not tested, so if u encounter any issues lemme know**
 
 Get them all from the [Releases page](../../releases/latest).
 
