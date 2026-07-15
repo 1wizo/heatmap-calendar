@@ -50,3 +50,5 @@ Each folder has its own `README.md` with details.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+**important**: AI is heavily used here
